@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ICT PROJECT\\TrendHive\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35B5B607-621D-40F9-B8A3-2518A65F3882}|TrendHive\\TrendHive.csproj|d:\\ict project\\trendhive\\trendhive\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35B5B607-621D-40F9-B8A3-2518A65F3882}|TrendHive\\TrendHive.csproj|solutionrelative:trendhive\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35B5B607-621D-40F9-B8A3-2518A65F3882}|TrendHive\\TrendHive.csproj|D:\\ICT PROJECT\\TrendHive\\trendhive\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35B5B607-621D-40F9-B8A3-2518A65F3882}|TrendHive\\TrendHive.csproj|solutionrelative:trendhive\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_100827_DOCUMENTS_TREND.MDF/True/SqlTable/dbo.oderdetails.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35B5B607-621D-40F9-B8A3-2518A65F3882}|TrendHive\\TrendHive.csproj|D:\\ICT PROJECT\\TrendHive\\trendhive\\models\\oderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35B5B607-621D-40F9-B8A3-2518A65F3882}|TrendHive\\TrendHive.csproj|solutionrelative:trendhive\\models\\oderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_100827_DOCUMENTS_TREND.MDF/True/SqlTable/dbo.userlogins.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_100827_DOCUMENTS_TREND.MDF/True/SqlTable/dbo.dressdetails.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35B5B607-621D-40F9-B8A3-2518A65F3882}|TrendHive\\TrendHive.csproj|D:\\ICT PROJECT\\TrendHive\\trendhive\\models\\dressdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35B5B607-621D-40F9-B8A3-2518A65F3882}|TrendHive\\TrendHive.csproj|solutionrelative:trendhive\\models\\dressdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35B5B607-621D-40F9-B8A3-2518A65F3882}|TrendHive\\TrendHive.csproj|D:\\ICT PROJECT\\TrendHive\\trendhive\\trendhive.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{35B5B607-621D-40F9-B8A3-2518A65F3882}|TrendHive\\TrendHive.csproj|solutionrelative:trendhive\\trendhive.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ICT PROJECT\\TrendHive\\TrendHive\\Program.cs",
+              "RelativeDocumentMoniker": "TrendHive\\Program.cs",
+              "ToolTip": "D:\\ICT PROJECT\\TrendHive\\TrendHive\\Program.cs",
+              "RelativeToolTip": "TrendHive\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBAAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T09:10:16.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Oderdetail.cs",
+              "DocumentMoniker": "D:\\ICT PROJECT\\TrendHive\\TrendHive\\Models\\Oderdetail.cs",
+              "RelativeDocumentMoniker": "TrendHive\\Models\\Oderdetail.cs",
+              "ToolTip": "D:\\ICT PROJECT\\TrendHive\\TrendHive\\Models\\Oderdetail.cs",
+              "RelativeToolTip": "TrendHive\\Models\\Oderdetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T06:51:56.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dbo.oderdetails [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_100827_DOCUMENTS_TREND.MDF/True/SqlTable/dbo.oderdetails.sql",
+              "ToolTip": "dbo.oderdetails [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-21T06:42:29.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dbo.userlogins [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_100827_DOCUMENTS_TREND.MDF/True/SqlTable/dbo.userlogins.sql",
+              "ToolTip": "dbo.userlogins [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-21T06:40:46.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dressdetail.cs",
+              "DocumentMoniker": "D:\\ICT PROJECT\\TrendHive\\TrendHive\\Models\\Dressdetail.cs",
+              "RelativeDocumentMoniker": "TrendHive\\Models\\Dressdetail.cs",
+              "ToolTip": "D:\\ICT PROJECT\\TrendHive\\TrendHive\\Models\\Dressdetail.cs",
+              "RelativeToolTip": "TrendHive\\Models\\Dressdetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T04:35:05.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dbo.dressdetails [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_100827_DOCUMENTS_TREND.MDF/True/SqlTable/dbo.dressdetails.sql",
+              "ToolTip": "dbo.dressdetails [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-21T04:04:39.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "D:\\ICT PROJECT\\TrendHive\\TrendHive\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "TrendHive\\Controllers\\ValuesController.cs",
+              "ToolTip": "D:\\ICT PROJECT\\TrendHive\\TrendHive\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "TrendHive\\Controllers\\ValuesController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAADwvxQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T04:02:05.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TrendHive.http",
+              "DocumentMoniker": "D:\\ICT PROJECT\\TrendHive\\TrendHive\\TrendHive.http",
+              "RelativeDocumentMoniker": "TrendHive\\TrendHive.http",
+              "ToolTip": "D:\\ICT PROJECT\\TrendHive\\TrendHive\\TrendHive.http",
+              "RelativeToolTip": "TrendHive\\TrendHive.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-05-21T04:02:02.72Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+@TrendHive_HostAddress = http://localhost:5052
+
+GET {{TrendHive_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
